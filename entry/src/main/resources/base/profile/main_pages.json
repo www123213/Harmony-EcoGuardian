@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/AddRecordPage",
+    "pages/RecordPage",
+    "pages/KnowledgePage",
+    "pages/ActivitiesPage",
+    "pages/RankingPage",
+    "pages/CreateActivityPage",
+    "pages/ProfilePage"
+  ]
+}
